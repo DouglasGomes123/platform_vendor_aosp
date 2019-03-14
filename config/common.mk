@@ -85,7 +85,8 @@ PRODUCT_PACKAGES += \
     MarkupGoogle \
     WellbeingPrebuilt \
     Recorder \
-    WeatherClient
+    WeatherClient \
+    AsusCamera
 
 # Weather
 PRODUCT_COPY_FILES += \
